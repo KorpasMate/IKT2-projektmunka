@@ -1,0 +1,61 @@
+#cim{
+    text-align: center;
+    font-size: 200%;
+    font-family: Algerian;
+    
+}
+
+body{
+    background-color: rgb(226, 202, 169);
+}
+
+.menu{
+    text-align: right;
+    margin-right: 60px;
+}
+
+#menu2{
+    text-align: right;
+    margin-right: 90px;
+    font-size: 115%;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+#linkek{
+    font-size: 110%;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+img{
+    width: 10%;
+    height: 10%;
+}
+
+#sz{
+    font-size: 150%;
+    text-align: left;
+    font-style: italic;
+}
+
+#sz2{
+    font-size: 120%;
+    text-align: left;
+    font-style: italic;
+}
+#sz3{
+    font-size: 120%;
+    text-align: left;
+    font-style: italic;
+}
+{
+  margin: 0;
+  font-family: Arial;
+}
+
+table,td,th{
+   border: 1px solid
+}
+    
+    
