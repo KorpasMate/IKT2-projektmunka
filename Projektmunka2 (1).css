@@ -1,0 +1,30 @@
+body{
+    background: rgb(141,255,255);
+}
+
+.menu {
+  overflow: hidden;
+  background-color: #00526a;
+}
+
+.menu a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration:none;
+  font-size: 18px;
+}
+
+.menu a:hover {
+  background-color: #ddd;
+  color: cornflowerblue;
+}
+
+.menu a.active {
+  background-color: #ffde44;
+  color: black;
+}
+h1{
+    text-align: center;
+}
